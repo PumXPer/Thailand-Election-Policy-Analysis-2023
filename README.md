@@ -46,7 +46,7 @@
 
 ### <h3>Pheu Thai Party</h3>
 <ul>
-  <li>Highlights the party's own name in its messaging.</li>
+  <li>Highlights the Pheu Thai Party in its messaging.</li>
   <li>Main policy focus: <strong>Agriculture</strong>.</li>
 </ul>
 
